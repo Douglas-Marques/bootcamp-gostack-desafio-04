@@ -1,0 +1,32 @@
+.comment-avatar {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+.comment-container {
+  position: relative;
+  top: -30px;
+  left: 5px;
+  max-width: 620px;
+  margin: 0 auto;
+  background: #eee;
+  border-radius: 20px;
+}
+
+.comment-name {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.comment-content {
+  padding: 10px;
+  max-width: 590px;
+  min-height: 20px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #3e3e3e;
+}
